@@ -1,6 +1,6 @@
 # 03.03.2025-kirils-kulesovs
 
-Darba mērķis ir parādīt OOP darbu Python, izmantojot 3 klases un 1 apakšklasi, kā arī parādīt Random bibliotēkas iespējas mijiedarbībā ar OOP.
+Darba mērķis ir parādīt OOP darbu Python, izmantojot 3 klases un 1 apakšklasi, kā arī parādīt Random bibliotēkas iespējas mijiedarbībā ar OOP.<br>
 Nodarbību saraksts:
 1. Object — klase, kurai šajā prezentācijā nav nekādas funkcijas, taču to var izmantot nākotnē dažādu objektu apzīmēšanai.
 1.5. Book — objektu apakšklase. Startējot, tiek ģenerētas 5 nejaušas grāmatas, katrai no tām ir 3 nejauši atribūti:
